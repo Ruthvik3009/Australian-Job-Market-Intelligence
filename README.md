@@ -1,15 +1,16 @@
 # Australian-Job-Market-Intelligence
-Comparative analysis of Data Analyst and Data Scientist job demand using Python
-
-# Data Analyst vs Data Scientist
+## Data Analyst vs Data Scientist
 
 # Project Overview
-This project analyzes real-world Australian job postings to compare demand, skills, and hiring trends for Data Analyst and Data Scientist roles.
+This project presents a comparative analysis of real-world Australian job postings to understand hiring demand, required skills, and role-based differences between **Data Analyst** and **Data Scientist** positions.
 
-# The goal is to understand:
-- Which roles are more in demand
-- What skills employers are looking for
-- How job requirements differ between roles
+The objective is to help job seekers and students make data-driven decisions about skill development and career paths.
+
+## Key Objectives
+- Identify which roles are more in demand  
+- Analyze the most in-demand technical skills  
+- Compare job requirements across roles  
+- Understand location-based hiring trends 
 
 # Tools & Technologies
 - Python
@@ -39,6 +40,6 @@ The dataset consists of two CSV files:
 - Skill requirements vary significantly by role
 
 # Outcome
-This project provides actionable insights for job seekers and students to align their skills with current market demand.
+This project delivers actionable insights that help aspiring data professionals align their skills with current Australian job market demand.
 
 # Ruthvik Reddy Kambam
